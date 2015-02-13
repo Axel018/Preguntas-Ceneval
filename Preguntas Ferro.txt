@@ -1,0 +1,16 @@
+PREGUNTAS	RESPUESTAS
+A1 1		C
+A1 2		A,C
+A1 3		C	
+A1 4		B
+A1 5		D
+A1 6		B
+A1 7		B
+A1 8		C
+A1 9		C
+A1 10		D
+A1 11		B
+A1 12		C
+A1 13		C
+A1 14		B
+A1 15		D
